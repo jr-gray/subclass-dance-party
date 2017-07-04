@@ -32,6 +32,10 @@ body, a:link, a:visited, a:active{
   position:absolute;
 }
 
+.gangnamdancer:hover {
+  display: none;
+}
+
 .carltondancer {
   position: absolute;
 }

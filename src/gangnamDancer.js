@@ -45,3 +45,7 @@ makeGangNamDancer.prototype.step = function() {
   //this.$node.toggle();
 };
 
+makeGangNamDancer.prototype.lineUp = function() {
+  this.$node.css('left', '65%');
+};
+

@@ -45,3 +45,7 @@ makeCarltonDancer.prototype.step = function() {
   //this.$node.toggle();
 };
 
+makeCarltonDancer.prototype.lineUp = function() {
+  this.$node.css('left', '10%');
+};
+
